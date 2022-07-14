@@ -1,5 +1,6 @@
 {
-  "name": "tutorial", 
+  "name": "tutorial",
+  "author": "BuffaloEngineer",
   "version": "1.0.0",
   "description": "",
   "main": "1-intro.js",
@@ -9,7 +10,6 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "BuffaloEngineer",
   "license": "ISC",
   "dependencies": {
     "bootstrap": "^5.1.3",
